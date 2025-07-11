@@ -1,6 +1,6 @@
 # AMP
 
-Topic: AI, Waste Management
+Topic: Artificial Intelligence, Waste Management, Waste Sorting
 
 # The Power To Solve Waste
 
