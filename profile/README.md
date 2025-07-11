@@ -9,6 +9,7 @@ AMP’s AI-driven <a href="https://ampsortation.com/">waste sorting solutions</a
 More information:
 
 Business Address: Louisville, Colorado 80027, United States
+
 Business Phone: (888) 402-1686
 
 <img width="1100" height="1052" alt="AMP ONE - Corp Presentation_05-03-2024 - Marie-Pier Vallée" src="https://github.com/user-attachments/assets/2502469e-8b15-4a79-a160-cc81faaf3eb7" />
