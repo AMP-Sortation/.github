@@ -14,4 +14,4 @@ Business Phone: (888) 402-1686
 
 <img width="1100" height="1052" alt="AMP ONE - Corp Presentation_05-03-2024 - Marie-Pier Vallée" src="https://github.com/user-attachments/assets/2502469e-8b15-4a79-a160-cc81faaf3eb7" />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jae9i5U7Eg4?si=l58ZapUHlqqqdfWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/Jae9i5U7Eg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=Jae9i5U7Eg4)
